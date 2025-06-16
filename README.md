@@ -4,29 +4,33 @@ A simple and interactive Rock Paper Scissors game built using **HTML**, **CSS**,
 
 ## 🎮 Live Demo
 
-Check out the live version here: [Click to Play](https://yourusername.github.io/rock-paper-scissors-game)
+👉 [Click to Play](https://btwpawan.github.io/rock-paper-scissors-game/)
 
 ## 🧠 Features
 
 - 🖱️ Click-based gameplay (Rock, Paper, Scissors)
-- 💻 Randomized computer choice
-- 🔢 Real-time score tracking (User vs Computer)
+- 💻 Random computer choice logic
+- 🔢 Real-time score tracking for both User and Computer
 - 🌓 Dark Mode toggle
-- 🔁 Reset Game functionality
-- 🎨 Clean and responsive UI
+- 🔁 Reset Game button
+- 🎨 Modern UI with responsive design
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Game Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/10558c88-7981-4c8a-a06c-0dd99851ac62)
+![image](https://github.com/user-attachments/assets/8ae2be9c-bedf-4972-9499-a8ed6f998f3d)
+![image](https://github.com/user-attachments/assets/5eff7478-05ae-4bcb-a95b-bad8e20c272e)
+
 
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript (Vanilla)
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-game.git
+```bash
+git clone https://github.com/btwpawan/rock-paper-scissors-game.git
+cd rock-paper-scissors-game
+# Open index.html in your browser
