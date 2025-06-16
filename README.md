@@ -4,7 +4,7 @@ A simple and interactive Rock Paper Scissors game built using **HTML**, **CSS**,
 
 ## 🎮 Live Demo
 
-👉 [Click to Play](https://btwpawan.github.io/rock-paper-scissors-game/)
+👉 [Click to Play](https://rock-paper-scissors-game-alpha-topaz.vercel.app/)
 
 ## 🧠 Features
 
